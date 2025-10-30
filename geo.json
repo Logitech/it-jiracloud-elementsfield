@@ -1,0 +1,31 @@
+{
+  "regions": [
+    {
+      "id": "AMR",
+      "name": "Americas",
+      "countries": [
+        { "id": "US", "name": "United States" },
+        { "id": "CA", "name": "Canada" },
+        { "id": "MX", "name": "Mexico" }
+      ]
+    },
+    {
+      "id": "EMEA",
+      "name": "Europe, Middle East, Africa",
+      "countries": [
+        { "id": "FR", "name": "France" },
+        { "id": "DE", "name": "Germany" },
+        { "id": "ZA", "name": "South Africa" }
+      ]
+    },
+    {
+      "id": "APAC",
+      "name": "Asia Pacific",
+      "countries": [
+        { "id": "JP", "name": "Japan" },
+        { "id": "CN", "name": "China" },
+        { "id": "AU", "name": "Australia" }
+      ]
+    }
+  ]
+}
